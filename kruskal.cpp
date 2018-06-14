@@ -85,7 +85,7 @@ int main() {
 				ligacoes.v2 = aux;
 			}
 			
-			cout << r.v1 << " " << r.v2 << endl;
+			cout << ligacoes.v1 << " " << ligacoes.v2 << endl;
 			// falta verificar se já teve uma ligação igual
 		}
 
